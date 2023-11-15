@@ -1,6 +1,6 @@
-# diamrings
 
-Portfolio website for diamond rings
+
+
 
 ## Getting Started
 
